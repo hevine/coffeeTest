@@ -16,5 +16,6 @@
 
    `coffee -w -c fileName.coffee`
     这样一有变更 ，便会自动编译
+   生成对应的.js文件
     
- 
+   
